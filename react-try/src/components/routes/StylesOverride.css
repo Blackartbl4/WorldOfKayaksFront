@@ -1,0 +1,4 @@
+/* styles.css или любой другой ваш CSS файл */
+.container-overrides {
+  display: block !important; /* Перекрываем стиль display:flex от body */
+}
