@@ -9,10 +9,6 @@ import Login from './components/users/Login';
 import Register from './components/users/Register';
 import Profile from './components/users/Profile';
 import ContactInfo from './components/ContactInfo'
-import vboy from './maxresdefault.jpg'
-import oboi from './IMG_20240713_164135.jpg'
-import popadanie from '1603804640_hqdefault.jpg'
-import postradyvat from './i.webp'
 
 
 function App() {
